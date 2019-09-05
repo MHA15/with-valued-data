@@ -1,6 +1,6 @@
 {
   "name": "with-valued-data",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "this is a HOC for react components, it will conditionally render your components if your data has been valued and it will inject the valued data to your component",
   "main": "index.js",
   "types": "index.d.ts",
