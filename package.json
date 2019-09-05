@@ -1,0 +1,32 @@
+{
+  "name": "with-valued-data",
+  "version": "0.1.0",
+  "description": "this is a HOC for react components, it will conditionally render your components if your data has been valued and it will inject the valued data to your component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MHA15/with-valued-data.git"
+  },
+  "keywords": [
+    "react",
+    "hoc",
+    "early-return",
+    "conditional-hook",
+    "inject-data-hoc"
+  ],
+  "dependencies": {
+    "react": "^16.9.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.6.2"
+  },
+  "author": "MHA15",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MHA15/with-valued-data/issues"
+  },
+  "homepage": "https://github.com/MHA15/with-valued-data#readme"
+}
