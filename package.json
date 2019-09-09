@@ -1,6 +1,6 @@
 {
   "name": "with-valued-data",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "this is a HOC for react components, it will conditionally render your components if your data has been valued and it will inject the valued data to your component",
   "main": "index.js",
   "types": "index.d.ts",
@@ -26,7 +26,7 @@
     "inject-data-hoc"
   ],
   "dependencies": {
-    "react": "^16.9.0"
+    "react": ">16.8.0"
   },
   "devDependencies": {
     "typescript": "^3.6.2"
